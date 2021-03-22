@@ -4,5 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Print("hi")
-	fmt.Print("hlo")
+	fmt.Print("hlojjjjj")
+	fmt.Print("hlojjjjj")
+	fmt.Print("hlojjjjj")
 }
